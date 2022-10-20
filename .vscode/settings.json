@@ -1,0 +1,11 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "typescript.suggestionActions.enabled": false,
+  "typescript.preferences.quoteStyle": "single",
+  "javascript.suggestionActions.enabled": false,
+  "javascript.preferences.quoteStyle": "single",
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "prettier.arrowParens": "always"
+}
